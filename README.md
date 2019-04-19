@@ -1,4 +1,4 @@
 # Coursera_Capstone
-Applied Data Science Capstone Project Repo
+###Applied Data Science Capstone Project Repo
 
-## More to come here
+This notebook will be mainly used for the capstone project. 
